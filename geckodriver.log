@@ -1,0 +1,2133 @@
+1668790125245	geckodriver	INFO	Listening on 127.0.0.1:60632
+1668790128329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60633" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileHsdiIe"
+1668790128765	Marionette	INFO	Marionette enabled
+1668790128770	Marionette	INFO	Listening on port 60643
+Read port: 60643
+WebDriver BiDi listening on ws://127.0.0.1:60633
+1668790128985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileHsdiIe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60633/devtools/browser/98e4b1ec-b739-4e72-83b6-3352e9bd6972
+1668790134122	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T16:48:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T16:48:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T16:48:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T16:48:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T16:48:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T16:48:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T16:48:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T16:48:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668790756222	Marionette	INFO	Stopped listening on port 60643
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 34436, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+[Parent 34436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilePCYVwV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61993/devtools/browser/86f77af6-5d37-4322-90b2-adab228538b3
+1668790714297	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T16:58:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T16:58:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T16:58:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T16:58:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T16:58:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T16:58:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T16:58:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T16:58:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668790757052	Marionette	INFO	Stopped listening on port 62004
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668790894894	geckodriver	INFO	Listening on 127.0.0.1:62508
+1668790897962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62509" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileAs0Efi"
+1668790898356	Marionette	INFO	Marionette enabled
+1668790898361	Marionette	INFO	Listening on port 62525
+Read port: 62525
+WebDriver BiDi listening on ws://127.0.0.1:62509
+1668790898549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileAs0Efi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62509/devtools/browser/d2e58278-90ff-4f93-9054-469e5055858d
+1668790904419	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T17:01:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:01:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:01:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:01:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:01:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:01:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:01:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:01:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668791239228	Marionette	INFO	Stopped listening on port 62525
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileFuGaSO"
+1668791239637	Marionette	INFO	Marionette enabled
+1668791239645	Marionette	INFO	Listening on port 63128
+Read port: 63128
+WebDriver BiDi listening on ws://127.0.0.1:63116
+1668791239880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileFuGaSO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63116/devtools/browser/5574dffa-57e1-4e98-860c-f304a28c9f43
+1668791246491	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T17:07:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:07:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:07:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:07:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:07:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:07:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:07:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 7468, MediaDecoderStateMachine #1] WARNING: Decoder=2c2a2365c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 7468, MediaDecoderStateMachine #1] WARNING: Decoder=2c2a2365c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1668791329836	Marionette	INFO	Stopped listening on port 63128
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileVWdjuU"
+1668791330204	Marionette	INFO	Marionette enabled
+1668791330211	Marionette	INFO	Listening on port 63331
+Read port: 63331
+WebDriver BiDi listening on ws://127.0.0.1:63318
+1668791330450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileVWdjuU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63318/devtools/browser/32c29b16-d1a1-486d-9695-563064ce034c
+1668791335228	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T17:08:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:08:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:08:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:08:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:08:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:08:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:08:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:08:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668791713050	Marionette	INFO	Stopped listening on port 63331
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilefV7ACM"
+1668791708708	Marionette	INFO	Marionette enabled
+1668791708712	Marionette	INFO	Listening on port 64117
+Read port: 64117
+WebDriver BiDi listening on ws://127.0.0.1:64106
+1668791708895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilefV7ACM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64106/devtools/browser/94bde99b-97e8-4909-8d4b-d5eebb5808a4
+1668791714455	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T17:15:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:15:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:15:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:15:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:15:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:15:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:15:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 26508, MediaDecoderStateMachine #1] WARNING: Decoder=1c9b3bfc300 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 26508, MediaDecoderStateMachine #1] WARNING: Decoder=1c9b3bfc300 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1668791765101	Marionette	INFO	Stopped listening on port 64111668791765875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64242" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileEiN3Ry"
+1668791766297	Marionette	INFO	Marionette enabled
+1668791766302	Marionette	INFO	Listening on port 64253
+Read port: 
+1668791766316	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 64253
+WebDriver BiDi listening on ws://127.0.0.1:64242
+1668791766516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileEiN3Ry\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64242/devtools/browser/7395216a-369e-4e39-a42b-9129fc244b5a
+1668791773555	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+[2022-11-18T17:16:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:16:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:16:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:16:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:16:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:16:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:16:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:16:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668791802482	Marionette	INFO	Stopped listening on port 64251668791803426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64356" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilekbjmvT"
+1668791805041	Marionette	INFO	Marionette enabled
+1668791805056	Marionette	INFO	Listening on port 64368
+Read port: 
+1668791805087	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 64368
+WebDriver BiDi listening on ws://127.0.0.1:64356
+1668791805709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilekbjmvT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64356/devtools/browser/b8b5d643-ff3e-4bc5-b55d-965c81cac90b
+1668791813857	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T17:16:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:16:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:16:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:16:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:16:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:16:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:16:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 35460, MediaDecoderStateMachine #1] WARNING: Decoder=200c0405b00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 35460, MediaDecoderStateMachine #1] WARNING: Decoder=200c0405b00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1668792054503	Marionette	INFO	Stopped listening on port 64368
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64610" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilesDO1gf"
+1668792019337	Marionette	INFO	Marionette enabled
+1668792019348	Marionette	INFO	Listening on port 64622
+Read port: 64622
+WebDriver BiDi listening on ws://127.0.0.1:64610
+1668792019714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilesDO1gf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64610/devtools/browser/9f765b54-5163-440d-868d-b51410df5b52
+1668792026230	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+[2022-11-18T17:20:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:20:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:20:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:20:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:20:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 1020, MediaDecoderStateMachine #1] WARNING: Decoder=280c0c23d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 1020, MediaDecoderStateMachine #1] WARNING: Decoder=280c0c23d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 1020, MediaDecoderStateMachine #1] WARNING: Decoder=280c0c96400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 1020, MediaDecoderStateMachine #1] WARNING: Decoder=280c0c96400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 1020, MediaDecoderStateMachine #1] WARNING: Decoder=280c747d700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 1020, MediaDecoderStateMachine #1] WARNING: Decoder=280c747d700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1668792055500	Marionette	INFO	Stopped listening on port 64622
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 29068, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+[Parent 29068, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668792059810	geckodriver	INFO	Listening on 127.0.0.1:64712
+1668792062905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileRqUW2X"
+1668792063722	Marionette	INFO	Marionette enabled
+1668792063729	Marionette	INFO	Listening on port 64725
+Read port: 64725
+WebDriver BiDi listening on ws://127.0.0.1:64713
+1668792064121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileRqUW2X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64713/devtools/browser/f065d72f-6d13-4cef-af5e-931d7f7a8ea2
+1668792070733	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T17:21:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:21:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:21:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:21:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:21:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:21:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:21:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:21:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:21:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:21:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:21:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:21:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668792179518	Marionette	INFO	Stopped listening on port 64725
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13896, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1668792190903	geckodriver	INFO	Listening on 127.0.0.1:64902
+1668792193972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64903" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileVdp2Tu"
+1668792194897	Marionette	INFO	Marionette enabled
+1668792194908	Marionette	INFO	Listening on port 64915
+Read port: 64915
+WebDriver BiDi listening on ws://127.0.0.1:64903
+1668792195328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileVdp2Tu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64903/devtools/browser/65b9ed44-62ee-42ab-9426-f6da4e3596e5
+1668792202166	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T17:23:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:23:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:24:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:25:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:25:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:25:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:25:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:25:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668792412876	Marionette	INFO	Stopped listening on port 64915
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1668792419796	geckodriver	INFO	Listening on 127.0.0.1:65198
+1668792422832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileQ5P0lj"
+1668792423805	Marionette	INFO	Marionette enabled
+1668792423822	Marionette	INFO	Listening on port 65211
+Read port: 65211
+WebDriver BiDi listening on ws://127.0.0.1:65199
+1668792424594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileQ5P0lj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65199/devtools/browser/194d12af-92b0-4ac9-a0c1-0446c488f27e
+1668792433503	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T17:27:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:27:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1668792710070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49244" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileYxTV0A"
+1668792711351	Marionette	INFO	Marionette enabled
+1668792711363	Marionette	INFO	Listening on port 49256
+Read port: 49256
+WebDriver BiDi listening on ws://127.0.0.1:49244
+1668792711669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileYxTV0A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49244/devtools/browser/2d002fd1-10fc-4180-b846-cc368b81e168
+1668792758423	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T17:32:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:32:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:32:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:32:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:32:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:32:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:32:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:32:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:32:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:32:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:32:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:32:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+[2022-11-18T17:33:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:33:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:34:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668792966944	Marionette	INFO	Stopped listening on port 49256
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 36804, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668792969234	geckodriver	INFO	Listening on 127.0.0.1:49578
+1668792972331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49579" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile4OwWDx"
+1668792973642	Marionette	INFO	Marionette enabled
+1668792973657	Marionette	INFO	Listening on port 49589
+Read port: 49589
+WebDriver BiDi listening on ws://127.0.0.1:49579
+1668792973928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile4OwWDx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49579/devtools/browser/41c16b25-d289-485f-af79-0e35c99a5ca5
+1668792981382	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T17:36:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 36700, MediaDecoderStateMachine #1] WARNING: Decoder=1b545731d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 36700, MediaDecoderStateMachine #1] WARNING: Decoder=1b545731d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 36700, MediaDecoderStateMachine #1] WARNING: Decoder=1b545732000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 36700, MediaDecoderStateMachine #1] WARNING: Decoder=1b545732000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[2022-11-18T17:36:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:36:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668793693634	Marionette	INFO	Stopped listening on port 49589
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1668793710810	geckodriver	INFO	Listening on 127.0.0.1:50336
+1668793713910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilegunGKE"
+1668793714537	Marionette	INFO	Marionette enabled
+1668793714545	Marionette	INFO	Listening on port 50349
+Read port: 
+1668793714552	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 50349
+WebDriver BiDi listening on ws://127.0.0.1:50337
+1668793714998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilegunGKE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50337/devtools/browser/fc2f3a88-d8fc-4479-b665-364a104ea7f5
+1668793722700	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T17:48:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:48:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:49:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:49:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:49:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:49:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 4183 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668794021374	Marionette	INFO	Stopped listening on port 50349
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 36388, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668794046606	geckodriver	INFO	Listening on 127.0.0.1:50753
+1668794049723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofiler4PqYx"
+1668794050636	Marionette	INFO	Marionette enabled
+1668794050647	Marionette	INFO	Listening on port 50766
+Read port: 50766
+WebDriver BiDi listening on ws://127.0.0.1:50754
+1668794051104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofiler4PqYx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50754/devtools/browser/28dc96f2-cf0d-43e9-9598-fcbf0cf64754
+1668794058134	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T17:54:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:54:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:55:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:55:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:55:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:55:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:55:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:55:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:55:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:55:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668794193348	Marionette	INFO	Stopped listening on port 50766
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilefcpRnP"
+1668794193186	Marionette	INFO	Marionette enabled
+1668794193197	Marionette	INFO	Listening on port 50970
+Read port: 50970
+WebDriver BiDi listening on ws://127.0.0.1:50958
+1668794193738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilefcpRnP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50958/devtools/browser/e0561dde-1cbc-49dd-b5c3-c5e5983fab31
+1668794201213	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T17:56:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:56:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:56:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:56:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:56:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:56:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:56:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 4692, MediaDecoderStateMachine #1] WARNING: Decoder=19a2e6c4a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 4692, MediaDecoderStateMachine #1] WARNING: Decoder=19a2e6c4a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[2022-11-18T17:56:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:56:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:56:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:56:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T17:57:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668801803958	Marionette	INFO	Stopped listening on port 50971668801805474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileJbFw1O"
+1668801806349	Marionette	INFO	Marionette enabled
+1668801806355	Marionette	INFO	Listening on port 56896
+Read port: 
+1668801806370	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 56896
+WebDriver BiDi listening on ws://127.0.0.1:56885
+1668801806782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileJbFw1O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56885/devtools/browser/a7a1745f-642c-4fb6-a734-eebcfc8aadf1
+1668801814620	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T20:03:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:03:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:03:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:03:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:03:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:03:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:03:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:05:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:05:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:05:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:05:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:05:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668801970243	geckodriver	INFO	Listening on 127.0.0.1:57070
+1668801973322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileMkVXoC"
+1668801974365	Marionette	INFO	Marionette enabled
+1668801974375	Marionette	INFO	Listening on port 57083
+Read port: 57083
+WebDriver BiDi listening on ws://127.0.0.1:57071
+1668801974789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileMkVXoC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57071/devtools/browser/639658ed-a8fc-4035-a64e-fc381a0b274c
+1668801982661	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T20:06:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:06:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:07:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668802065861	Marionette	INFO	Stopped listening on port 57083
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1668802086534	geckodriver	INFO	Listening on 127.0.0.1:57221
+1668802089590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57222" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileHuzSTe"
+1668802090160	Marionette	INFO	Marionette enabled
+1668802090167	Marionette	INFO	Listening on port 57235
+Read port: 57235
+WebDriver BiDi listening on ws://127.0.0.1:57222
+1668802090539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileHuzSTe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57222/devtools/browser/2d3a6a94-d81a-42a3-8680-38bba1ffc220
+1668802096106	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T20:08:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:08:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:08:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:08:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:08:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:08:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:08:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1668802167529	geckodriver	INFO	Listening on 127.0.0.1:57332
+1668802170586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileCaAGOn"
+1668802171657	Marionette	INFO	Marionette enabled
+1668802171664	Marionette	INFO	Listening on port 57344
+Read port: 57344
+WebDriver BiDi listening on ws://127.0.0.1:57333
+1668802171901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileCaAGOn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57333/devtools/browser/58d87212-ca9e-4385-a3c2-c7fec8667675
+1668802179425	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-18T20:09:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:09:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:09:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:09:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:09:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:09:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:09:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 14240, MediaDecoderStateMachine #1] WARNING: Decoder=2156b028300 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 14240, MediaDecoderStateMachine #1] WARNING: Decoder=2156b028300 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[2022-11-18T20:10:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:10:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:11:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:11:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:11:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-18T20:11:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Zakaria\AppData\Local\Temp\rust_mozprofileCaAGOn\bookmarkbackups\bookmarks-2022-11-18_11_OeKGlvACMkJRXdTiJa01fQ==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1668892444681	Marionette	INFO	Stopped listening on port 57344
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5492, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669357978637	geckodriver	INFO	Listening on 127.0.0.1:56431
+1669358003043	geckodriver	INFO	Listening on 127.0.0.1:56480
+1669358065018	geckodriver	INFO	Listening on 127.0.0.1:56590
+1669358091919	geckodriver	INFO	Listening on 127.0.0.1:56651
+1669358136599	geckodriver	INFO	Listening on 127.0.0.1:56727
+1669358139731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile4V3E0W"
+1669358140720	Marionette	INFO	Marionette enabled
+1669358140732	Marionette	INFO	Listening on port 56740
+Read port: 56740
+WebDriver BiDi listening on ws://127.0.0.1:56728
+1669358141090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile4V3E0W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56728/devtools/browser/31d13c89-daee-4c61-8004-ff98fe6c0ae8
+1669358173181	Marionette	INFO	Stopped listening on port 56741669358173575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileSKEmR7"
+1669358174252	Marionette	INFO	Marionette enabled
+1669358174259	Marionette	INFO	Listening on port 56813
+Read port: 56813
+WebDriver BiDi listening on ws://127.0.0.1:56801
+1669358174506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileSKEmR7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56801/devtools/browser/1c8ecb6f-a5df-435b-adcb-e7fdfd23ced2
+1669358181649	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-25T06:36:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T06:36:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T06:36:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T06:36:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T06:36:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T06:36:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T06:36:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669358307592	Marionette	INFO	Stopped listening on port 56813
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1669358310106	geckodriver	INFO	Listening on 127.0.0.1:57004
+1669358313183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilefV4y5k"
+1669358314077	Marionette	INFO	Marionette enabled
+1669358314084	Marionette	INFO	Listening on port 57015
+Read port: 57015
+WebDriver BiDi listening on ws://127.0.0.1:57005
+1669358314333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilefV4y5k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57005/devtools/browser/3c98541f-abe5-400c-9d99-f297913f11d8
+1669358321247	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-25T06:38:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T06:38:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T06:38:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T06:38:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T06:38:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T06:38:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T06:38:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T06:38:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669358326023	Marionette	INFO	Stopped listening on port 57015
+!!! error running onStopped callback: TypeError: callback is not a function
+1669359634800	geckodriver	INFO	Listening on 127.0.0.1:58572
+1669359637901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilepv1zZ5"
+1669359638939	Marionette	INFO	Marionette enabled
+1669359638949	Marionette	INFO	Listening on port 58585
+Read port: 58585
+WebDriver BiDi listening on ws://127.0.0.1:58573
+1669359639318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilepv1zZ5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58573/devtools/browser/d4308534-a63c-40f0-99b2-6a3628fefef6
+1669359645887	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+[2022-11-25T07:00:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:00:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:00:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:00:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:00:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:00:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:00:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:00:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669360245177	Marionette	INFO	Stopped listening on port 58585
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 38804, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+al\\Temp\\rust_mozprofilekI0MVM"
+1669359786552	Marionette	INFO	Marionette enabled
+1669359786558	Marionette	INFO	Listening on port 58820
+Read port: 58820
+WebDriver BiDi listening on ws://127.0.0.1:58807
+1669359787016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilekI0MVM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58807/devtools/browser/5bd2b085-58cf-45e9-ae61-a1dff562c1d7
+1669359793459	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-25T07:03:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:03:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:03:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:03:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:03:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:03:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:03:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:03:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669360249453	Marionette	INFO	Stopped listening on port 58820
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6292, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 6292, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669360253901	geckodriver	INFO	Listening on 127.0.0.1:59380
+1669360257006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileZK9upW"
+1669360258384	Marionette	INFO	Marionette enabled
+1669360258398	Marionette	INFO	Listening on port 59394
+Read port: 59394
+WebDriver BiDi listening on ws://127.0.0.1:59381
+1669360258931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileZK9upW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59381/devtools/browser/11b42e9f-ab76-4212-891b-3e0bd94436f1
+1669360267486	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-25T07:11:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:11:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:11:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:11:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:11:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:11:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:11:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 37436, MediaDecoderStateMachine #1] WARNING: Decoder=12706cda800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 37436, MediaDecoderStateMachine #1] WARNING: Decoder=12706cda800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1669360431030	Marionette	INFO	Stopped listening on port 59391669360432481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59644" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilemfBN7p"
+1669360433487	Marionette	INFO	Marionette enabled
+1669360433499	Marionette	INFO	Listening on port 59657
+Read port: 
+1669360433504	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 59657
+WebDriver BiDi listening on ws://127.0.0.1:59644
+1669360433777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilemfBN7p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59644/devtools/browser/e831616e-a5e8-4117-b23e-74295bcc5aca
+1669360439968	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+[2022-11-25T07:14:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:14:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:14:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:14:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:14:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:14:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:14:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 47316, MediaDecoderStateMachine #1] WARNING: Decoder=251646bc600 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 47316, MediaDecoderStateMachine #1] WARNING: Decoder=251646bc600 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1669360701424	Marionette	INFO	Stopped listening on port 59657
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileF5bZZR"
+1669360646372	Marionette	INFO	Marionette enabled
+1669360646381	Marionette	INFO	Listening on port 59879
+Read port: 59879
+WebDriver BiDi listening on ws://127.0.0.1:59868
+1669360646778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileF5bZZR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59868/devtools/browser/9f3ccf1f-7593-4f5f-b6dc-71428d26fb52
+1669360653914	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-25T07:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669360702376	Marionette	INFO	Stopped listening on port 59879
+[Parent 53512, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669360866277	geckodriver	INFO	Listening on 127.0.0.1:60212
+1669360869337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilehXMQTX"
+1669360870323	Marionette	INFO	Marionette enabled
+1669360870334	Marionette	INFO	Listening on port 60225
+Read port: 
+1669360870339	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 60225
+WebDriver BiDi listening on ws://127.0.0.1:60213
+1669360870675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilehXMQTX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60213/devtools/browser/229b244c-2367-423a-a5f6-e314011c414c
+1669360877952	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+[2022-11-25T07:21:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:21:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:21:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:21:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:21:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:21:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:21:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+1669360961575	Marionette	INFO	Stopped listening on port 60221669360962793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilehfZMQA"
+1669360963503	Marionette	INFO	Marionette enabled
+1669360963514	Marionette	INFO	Listening on port 60418
+Read port: 60418
+WebDriver BiDi listening on ws://127.0.0.1:60407
+1669360963933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilehfZMQA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60407/devtools/browser/98bca0fa-b574-4caf-be39-3af01bb9552b
+1669360970858	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+[2022-11-25T07:22:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:22:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:22:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:22:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:22:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:22:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:22:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 10112, MediaDecoderStateMachine #1] WARNING: Decoder=2e13b9f8100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 10112, MediaDecoderStateMachine #1] WARNING: Decoder=2e13b9f8100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1669361029391	Marionette	INFO	Stopped listening on port 60418
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669361031820	geckodriver	INFO	Listening on 127.0.0.1:60539
+1669361034911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60540" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile4mphY6"
+1669361035943	Marionette	INFO	Marionette enabled
+1669361035951	Marionette	INFO	Listening on port 60552
+Read port: 60552
+WebDriver BiDi listening on ws://127.0.0.1:60540
+1669361036270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile4mphY6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60540/devtools/browser/569227b7-9cc0-4b22-bded-9b40a2479936
+1669361042869	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-25T07:24:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:24:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:24:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:24:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:24:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:24:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:24:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:24:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669361075601	Marionette	INFO	Stopped listening on port 60552
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 50112, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 50112, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669361077682	geckodriver	INFO	Listening on 127.0.0.1:60713
+1669361080792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile61FyDe"
+1669361081919	Marionette	INFO	Marionette enabled
+1669361081929	Marionette	INFO	Listening on port 60726
+Read port: 60726
+WebDriver BiDi listening on ws://127.0.0.1:60714
+1669361082250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile61FyDe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60714/devtools/browser/3c0a8d19-97b1-4627-83eb-24de703ef8fa
+1669361088980	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-25T07:24:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:24:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:24:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:24:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:24:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:24:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:24:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:24:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669361132211	Marionette	INFO	Stopped listening on port 60726
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669361134744	geckodriver	INFO	Listening on 127.0.0.1:60858
+1669361137814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60859" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilexiHKLq"
+1669361138419	Marionette	INFO	Marionette enabled
+1669361138430	Marionette	INFO	Listening on port 60871
+Read port: 60871
+WebDriver BiDi listening on ws://127.0.0.1:60859
+1669361138748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilexiHKLq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60859/devtools/browser/66442eca-5e8a-4835-8d99-64cfa6dbe0f2
+1669361145508	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-25T07:25:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:25:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:25:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:25:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:25:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:25:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:25:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:25:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669361670355	Marionette	INFO	Stopped listening on port 60871
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669361673253	geckodriver	INFO	Listening on 127.0.0.1:61381
+1669361676342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile2JDKJC"
+1669361677389	Marionette	INFO	Marionette enabled
+1669361677396	Marionette	INFO	Listening on port 61394
+Read port: 61394
+WebDriver BiDi listening on ws://127.0.0.1:61382
+1669361677636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile2JDKJC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61382/devtools/browser/22621274-d78e-44ff-91da-620160d0a86e
+1669361684228	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+[2022-11-25T07:34:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:34:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:34:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:34:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:34:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:34:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:34:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:34:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669361766625	Marionette	INFO	Stopped listening on port 61394
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669361822571	geckodriver	INFO	Listening on 127.0.0.1:61612
+1669361825673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilezZmZnq"
+1669361826694	Marionette	INFO	Marionette enabled
+1669361826702	Marionette	INFO	Listening on port 61625
+Read port: 61625
+WebDriver BiDi listening on ws://127.0.0.1:61613
+1669361827040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilezZmZnq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61613/devtools/browser/4c52aafe-b27f-41b0-a1a8-c5b37fd78f33
+1669361833856	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-25T07:37:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:37:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:37:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:37:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:37:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:37:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:37:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:37:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669361863307	Marionette	INFO	Stopped listening on port 61621669361864365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileTXHNx4"
+1669361865368	Marionette	INFO	Marionette enabled
+1669361865378	Marionette	INFO	Listening on port 61728
+Read port: 61728
+WebDriver BiDi listening on ws://127.0.0.1:61716
+1669361865817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileTXHNx4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61716/devtools/browser/8ee5ce2a-c7a2-44fc-8228-53396dc8e415
+1669361871947	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-25T07:37:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:37:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:37:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:37:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:37:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:37:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:37:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:37:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669362959275	Marionette	INFO	Stopped listening on port 61728
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61816" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofiletRrG2p"
+1669361899372	Marionette	INFO	Marionette enabled
+1669361899378	Marionette	INFO	Listening on port 61828
+Read port: 61828
+WebDriver BiDi listening on ws://127.0.0.1:61816
+1669361899637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofiletRrG2p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61816/devtools/browser/2f40e9c2-ab16-46ac-be8e-731ac4af2625
+1669361905025	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-25T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669362230514	Marionette	INFO	Stopped listening on port 61828
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofiledPjPWq"
+1669361945504	Marionette	INFO	Marionette enabled
+1669361945520	Marionette	INFO	Listening on port 61955
+Read port: 61955
+WebDriver BiDi listening on ws://127.0.0.1:61942
+1669361945931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofiledPjPWq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61942/devtools/browser/864dd03b-13bb-4523-a9c8-c331a473ff9b
+1669361952885	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-25T07:39:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:39:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:39:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:39:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:39:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:39:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:39:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:39:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[2022-11-25T07:39:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:39:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:39:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-25T07:39:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669362182563	Marionette	INFO	Stopped listening on port 61955
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669526770534	geckodriver	INFO	Listening on 127.0.0.1:50686
+1669526773678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile3Yx14V"
+1669526774900	Marionette	INFO	Marionette enabled
+1669526774913	Marionette	INFO	Listening on port 50699
+Read port: 50699
+WebDriver BiDi listening on ws://127.0.0.1:50687
+1669526775416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile3Yx14V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50687/devtools/browser/f6130530-1784-44ec-a02c-0d41cc0d5766
+1669526783450	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T05:26:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:26:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:26:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:26:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:26:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:26:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:26:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:26:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669526814188	Marionette	INFO	Stopped listening on port 50699
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 52400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 52400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669526818809	geckodriver	INFO	Listening on 127.0.0.1:50804
+1669526821863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileIN8PPB"
+1669526822848	Marionette	INFO	Marionette enabled
+1669526822861	Marionette	INFO	Listening on port 50816
+Read port: 50816
+WebDriver BiDi listening on ws://127.0.0.1:50805
+1669526823198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileIN8PPB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50805/devtools/browser/fb7160e0-ba27-40bb-971f-ed3e267b8cb7
+1669526829933	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T05:27:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:27:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:27:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:27:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:27:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:27:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:27:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:27:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669527579841	Marionette	INFO	Stopped listening on port 50816
+1669527582073	geckodriver	INFO	Listening on 127.0.0.1:51642
+1669527585147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51643" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileEqPzqo"
+1669527586269	Marionette	INFO	Marionette enabled
+1669527586283	Marionette	INFO	Listening on port 51655
+Read port: 51655
+WebDriver BiDi listening on ws://127.0.0.1:51643
+1669527586546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileEqPzqo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51643/devtools/browser/9e160996-21e4-429f-a268-d6b1480d309e
+1669527593400	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669527659216	Marionette	INFO	Stopped listening on port 51655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669527664798	geckodriver	INFO	Listening on 127.0.0.1:51767
+1669527667866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51768" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileV3VxFC"
+1669527668846	Marionette	INFO	Marionette enabled
+1669527668861	Marionette	INFO	Listening on port 51779
+Read port: 51779
+WebDriver BiDi listening on ws://127.0.0.1:51768
+1669527669179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileV3VxFC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51768/devtools/browser/baba6eec-2a21-46c9-b860-d50effb8a986
+1669527675287	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+[2022-11-27T05:41:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:41:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:41:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:41:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:41:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:41:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:41:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 29244, MediaDecoderStateMachine #1] WARNING: Decoder=15a8a72e700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 29244, MediaDecoderStateMachine #1] WARNING: Decoder=15a8a72e700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1669614736282	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Zakaria\AppData\Local\Temp\rust_mozprofileV3VxFC\bookmarkbackups\bookmarks-2022-11-29_11_efrnJXDBJ5lOQskMTrnvww==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670015360075	Marionette	INFO	Stopped listening on port 51779
+!!! error running onStopped callback: TypeError: callback is not a function
+:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:43:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:43:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:43:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:43:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:43:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 26604, MediaDecoderStateMachine #1] WARNING: Decoder=1e19280e200 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 26604, MediaDecoderStateMachine #1] WARNING: Decoder=1e19280e200 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1669528257535	Marionette	INFO	Stopped listening on port 51989
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 39864, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669528390564	geckodriver	INFO	Listening on 127.0.0.1:52675
+1669528393673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52676" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileJ7Wcfh"
+1669528394630	Marionette	INFO	Marionette enabled
+1669528394643	Marionette	INFO	Listening on port 52687
+Read port: 52687
+WebDriver BiDi listening on ws://127.0.0.1:52676
+1669528394900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileJ7Wcfh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52676/devtools/browser/a3496bd4-d775-4ad0-baa3-88bc295035f7
+1669528401615	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+[2022-11-27T05:53:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:53:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:53:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:53:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:53:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T05:53:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 31536, MediaDecoderStateMachine #1] WARNING: Decoder=1c4810d7e00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 31536, MediaDecoderStateMachine #1] WARNING: Decoder=1c4810d7e00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 31536, MediaDecoderStateMachine #1] WARNING: Decoder=1c481074f00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 31536, MediaDecoderStateMachine #1] WARNING: Decoder=1c481074f00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1669528825748	Marionette	INFO	Stopped listening on port 52687
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 39116, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669528828834	geckodriver	INFO	Listening on 127.0.0.1:53378
+1669528831926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilerPt2dd"
+1669528832618	Marionette	INFO	Marionette enabled
+1669528832628	Marionette	INFO	Listening on port 53391
+Read port: 53391
+WebDriver BiDi listening on ws://127.0.0.1:53379
+1669528833046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilerPt2dd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53379/devtools/browser/338d0750-266c-4a6f-a438-abc4b882c17f
+1669528841160	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T06:00:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:00:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:00:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:00:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:00:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:00:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:00:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:00:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669528879764	Marionette	INFO	Stopped listening on port 53391
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1669528882406	geckodriver	INFO	Listening on 127.0.0.1:53522
+1669528885503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53523" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileUXyDgb"
+1669528886377	Marionette	INFO	Marionette enabled
+1669528886389	Marionette	INFO	Listening on port 53535
+Read port: 
+1669528886396	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 53535
+WebDriver BiDi listening on ws://127.0.0.1:53523
+1669528886821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileUXyDgb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53523/devtools/browser/05c8f671-1029-495e-8144-1c13a5c26994
+1669528894001	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T06:01:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:01:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:01:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:01:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:01:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:01:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:01:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:01:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669528930017	Marionette	INFO	Stopped listening on port 53535
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilewOTwNq"
+1669528929328	Marionette	INFO	Marionette enabled
+1669528929334	Marionette	INFO	Listening on port 53664
+Read port: 53664
+WebDriver BiDi listening on ws://127.0.0.1:53655
+1669528929998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilewOTwNq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53655/devtools/browser/78e691a8-c4e4-40cd-8d52-04c9814b5a21
+1669528936872	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T06:02:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:02:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:02:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:02:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:02:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:02:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:02:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:02:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669529009721	Marionette	INFO	Stopped listening on port 53664
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669529012248	geckodriver	INFO	Listening on 127.0.0.1:53812
+1669529015339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilec6JsZ8"
+1669529016251	Marionette	INFO	Marionette enabled
+1669529016257	Marionette	INFO	Listening on port 53825
+Read port: 53825
+WebDriver BiDi listening on ws://127.0.0.1:53813
+1669529016551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilec6JsZ8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53813/devtools/browser/7223ffb2-3990-45b0-9021-113765494903
+1669529022482	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T06:03:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:03:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:03:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:03:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:03:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:03:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:03:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 13736, MediaDecoderStateMachine #1] WARNING: Decoder=1f022ab6b00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 13736, MediaDecoderStateMachine #1] WARNING: Decoder=1f022ab6b00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1669529084051	Marionette	INFO	Stopped listening on port 53825
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1669529088337	geckodriver	INFO	Listening on 127.0.0.1:53934
+1669529091420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileHdJYWG"
+1669529092497	Marionette	INFO	Marionette enabled
+1669529092508	Marionette	INFO	Listening on port 53947
+Read port: 53947
+WebDriver BiDi listening on ws://127.0.0.1:53935
+1669529092975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileHdJYWG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53935/devtools/browser/b622300c-c3d6-40dc-abeb-e48367ec7f20
+1669529099353	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T06:05:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:05:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:05:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:05:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:05:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:05:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:05:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:05:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669529139791	Marionette	INFO	Stopped listening on port 53947
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1669529203774	geckodriver	INFO	Listening on 127.0.0.1:54089
+1669529206854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54090" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileMj1BS8"
+1669529207832	Marionette	INFO	Marionette enabled
+1669529207840	Marionette	INFO	Listening on port 54102
+Read port: 
+1669529207850	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 54102
+WebDriver BiDi listening on ws://127.0.0.1:54090
+1669529208144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileMj1BS8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54090/devtools/browser/7d13a1e5-d987-40e3-b07c-8347d7fae75d
+1669529215020	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T06:06:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:06:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:06:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:06:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:06:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:06:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:06:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:06:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669529272295	Marionette	INFO	Stopped listening on port 54101669529272717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54222" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileL6WURx"
+1669529273502	Marionette	INFO	Marionette enabled
+1669529273513	Marionette	INFO	Listening on port 54237
+Read port: 54237
+WebDriver BiDi listening on ws://127.0.0.1:54222
+1669529273822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileL6WURx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54222/devtools/browser/bc7ad324-7cc6-4307-97af-99e15ddc1fbf
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1669529280507	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T06:08:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:08:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:08:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:08:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:08:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:08:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:08:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:08:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669529365375	Marionette	INFO	Stopped listening on port 54237
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile3Vv351"
+1669529307078	Marionette	INFO	Marionette enabled
+1669529307086	Marionette	INFO	Listening on port 54344
+Read port: 54344
+WebDriver BiDi listening on ws://127.0.0.1:54331
+1669529307361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile3Vv351\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54331/devtools/browser/9e99ccd0-d25f-47b2-b03b-0e6fa706b4e7
+1669529312921	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T06:08:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:08:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:08:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:08:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:08:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:08:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:08:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:08:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669529624824	Marionette	INFO	Stopped listening on port 54344
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669529627977	geckodriver	INFO	Listening on 127.0.0.1:54773
+1669529631086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileD1RG70"
+1669529632146	Marionette	INFO	Marionette enabled
+1669529632156	Marionette	INFO	Listening on port 54787
+Read port: 54787
+WebDriver BiDi listening on ws://127.0.0.1:54774
+1669529632551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileD1RG70\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54774/devtools/browser/9a9f04b7-adc4-4c8f-b113-810bb4122496
+1669529638967	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T06:14:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:14:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:14:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:14:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:14:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:14:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669529663500	Marionette	INFO	Stopped listening on port 54787
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 48620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 48620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669529683275	geckodriver	INFO	Listening on 127.0.0.1:54908
+1669529686357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileJ2wbJ4"
+1669529687228	Marionette	INFO	Marionette enabled
+1669529687235	Marionette	INFO	Listening on port 54921
+Read port: 54921
+WebDriver BiDi listening on ws://127.0.0.1:54909
+1669529687497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileJ2wbJ4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54909/devtools/browser/03f07703-8146-42ac-abd3-e3cf9b7d577e
+1669529694186	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+[2022-11-27T06:14:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:14:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:14:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:14:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:14:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 59032, MediaDecoderStateMachine #1] WARNING: Decoder=2afa4ddff00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 59032, MediaDecoderStateMachine #1] WARNING: Decoder=2afa4ddff00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 59032, MediaDecoderStateMachine #1] WARNING: Decoder=2af9cd78c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 59032, MediaDecoderStateMachine #1] WARNING: Decoder=2af9cd78c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 59032, MediaDecoderStateMachine #1] WARNING: Decoder=2afa4ddf600 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 59032, MediaDecoderStateMachine #1] WARNING: Decoder=2afa4ddf600 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1669529792123	Marionette	INFO	Stopped listening on port 54921
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileQkAyOc"
+1669529764262	Marionette	INFO	Marionette enabled
+1669529764278	Marionette	INFO	Listening on port 55062
+Read port: 55062
+WebDriver BiDi listening on ws://127.0.0.1:55050
+1669529764623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileQkAyOc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55050/devtools/browser/9cdd83c0-10a8-4a69-b059-271d9a43247a
+1669529771296	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+[2022-11-27T06:16:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:16:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:16:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:16:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:16:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:16:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:16:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:16:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669529793744	Marionette	INFO	Stopped listening on port 55062
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 38184, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669529825137	geckodriver	INFO	Listening on 127.0.0.1:55227
+1669529828242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55228" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile24Pie1"
+1669529829291	Marionette	INFO	Marionette enabled
+1669529829301	Marionette	INFO	Listening on port 55240
+Read port: 55240
+WebDriver BiDi listening on ws://127.0.0.1:55228
+1669529829721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile24Pie1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55228/devtools/browser/c1a9b38d-5cb5-455a-9137-9bcb6e7a7b9d
+1669529836157	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T06:17:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:17:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:17:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:17:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:17:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:17:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:17:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:17:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669529839566	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669529923507	Marionette	INFO	Stopped listening on port 55240
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileQVmUl9"
+1669529877692	Marionette	INFO	Marionette enabled
+1669529877698	Marionette	INFO	Listening on port 55359
+Read port: 55359
+WebDriver BiDi listening on ws://127.0.0.1:55347
+1669529877981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileQVmUl9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55347/devtools/browser/ed5eca0f-0834-449c-a26f-0ecccd109e14
+1669529884599	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T06:18:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:18:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:18:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:18:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:18:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:18:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:18:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:18:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669529924264	Marionette	INFO	Stopped listening on port 55359
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669530063754	geckodriver	INFO	Listening on 127.0.0.1:55586
+1669530066834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileNUPH5n"
+1669530067600	Marionette	INFO	Marionette enabled
+1669530067606	Marionette	INFO	Listening on port 55599
+Read port: 
+1669530067613	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 55599
+WebDriver BiDi listening on ws://127.0.0.1:55587
+1669530067954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileNUPH5n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55587/devtools/browser/cc172f14-d19f-4e38-9ab9-32f5c640d206
+1669530075572	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T06:21:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:21:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:21:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:21:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:21:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:21:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:21:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:21:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669530168579	Marionette	INFO	Stopped listening on port 55599
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileAPni1Q"
+1669530134942	Marionette	INFO	Marionette enabled
+1669530134951	Marionette	INFO	Listening on port 55770
+Read port: 55770
+WebDriver BiDi listening on ws://127.0.0.1:55758
+1669530135212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileAPni1Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55758/devtools/browser/7df8a058-35a5-4dd5-9b9e-1dff641c0e2a
+1669530141672	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T06:22:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:22:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:22:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:22:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:22:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:22:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:22:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:22:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669530167717	Marionette	INFO	Stopped listening on port 55770
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669530172607	geckodriver	INFO	Listening on 127.0.0.1:55847
+1669530175688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55848" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileStdnj6"
+1669530176593	Marionette	INFO	Marionette enabled
+1669530176598	Marionette	INFO	Listening on port 55860
+Read port: 55860
+WebDriver BiDi listening on ws://127.0.0.1:55848
+1669530176919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileStdnj6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55848/devtools/browser/44ccd5af-8503-4c55-92ec-cd65bd19f937
+1669530183798	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T06:23:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:23:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:23:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:23:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:23:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:23:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:23:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T06:23:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669530604292	Marionette	INFO	Stopped listening on port 55860
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1408, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669553503554	geckodriver	INFO	Listening on 127.0.0.1:62964
+1669553506662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilego4kUY"
+1669553507098	Marionette	INFO	Marionette enabled
+1669553507104	Marionette	INFO	Listening on port 62977
+Read port: 62977
+WebDriver BiDi listening on ws://127.0.0.1:62965
+1669553507311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilego4kUY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62965/devtools/browser/e93b9c25-19cb-48bf-ab88-f89bdac235c0
+1669553511922	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T12:51:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:51:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:51:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:51:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:51:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:51:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:51:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:51:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669553534205	Marionette	INFO	Stopped listening on port 62977
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1669553541315	geckodriver	INFO	Listening on 127.0.0.1:63049
+1669553544356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63050" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileToMrfy"
+*** You are running in headless mode.
+1669553544833	Marionette	INFO	Marionette enabled
+1669553544837	Marionette	INFO	Listening on port 63062
+Read port: 63062
+WebDriver BiDi listening on ws://127.0.0.1:63050
+1669553545005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileToMrfy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63050/devtools/browser/56abc00d-a295-41f8-893b-acc38ec1498b
+1669553548687	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T12:52:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:52:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:52:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:52:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:52:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:52:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:52:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:52:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Zakaria\AppData\Local\Temp\rust_mozprofileToMrfy\bookmarkbackups\bookmarks-2022-11-27_11_nsrQB0-rAzMbaRAivWkPGg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Zakaria\AppData\Local\Temp\rust_mozprofileToMrfy\bookmarkbackups\bookmarks-2022-11-29_11_nsrQB0-rAzMbaRAivWkPGg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilezrs35K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63188/devtools/browser/2ae583cc-3c5b-4e5f-996f-f89c0b8e0a72
+1669553586664	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T12:53:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:53:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:53:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:53:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:53:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:53:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:53:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:53:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Zakaria\AppData\Local\Temp\rust_mozprofilezrs35K\bookmarkbackups\bookmarks-2022-11-29_11_-GRlZ+r8PUvH5juO7-ZATg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Zakaria\AppData\Local\Temp\rust_mozprofilezrs35K\bookmarkbackups\bookmarks-2022-11-30_11_-GRlZ+r8PUvH5juO7-ZATg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+t C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileh5IqRW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63285/devtools/browser/6b963133-3428-4dd3-a7c4-ac593bf6fe89
+1669553612361	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T12:53:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:53:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:53:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:53:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:53:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:53:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:53:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:53:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669553645776	Marionette	INFO	Stopped listening on port 63299
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669553692506	geckodriver	INFO	Listening on 127.0.0.1:63628
+1669553695566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilehstOCR"
+1669553695960	Marionette	INFO	Marionette enabled
+1669553695966	Marionette	INFO	Listening on port 63639
+Read port: 63639
+WebDriver BiDi listening on ws://127.0.0.1:63629
+1669553696151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilehstOCR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63629/devtools/browser/472809e0-f64e-4e99-b0a6-beef8a7a1995
+1669553702081	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T12:55:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:55:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:55:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:55:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:55:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T12:55:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 62432, MediaDecoderStateMachine #1] WARNING: Decoder=15a8db93100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 62432, MediaDecoderStateMachine #1] WARNING: Decoder=15a8db93100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 62432, MediaDecoderStateMachine #1] WARNING: Decoder=15a966d4900 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 62432, MediaDecoderStateMachine #1] WARNING: Decoder=15a966d4900 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+1669553922335	Marionette	INFO	Stopped listening on port 63639
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1669554012956	geckodriver	INFO	Listening on 127.0.0.1:64080
+1669554016021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileuw7DDw"
+1669554016427	Marionette	INFO	Marionette enabled
+1669554016431	Marionette	INFO	Listening on port 64091
+Read port: 64091
+WebDriver BiDi listening on ws://127.0.0.1:64081
+1669554016620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileuw7DDw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64081/devtools/browser/1c69e19b-10f6-4a13-ace5-5b3adb30c9e9
+1669554020986	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T13:00:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:00:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:00:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:00:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:00:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:00:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 58240, MediaDecoderStateMachine #1] WARNING: Decoder=209264a4300 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 58240, MediaDecoderStateMachine #1] WARNING: Decoder=209264a4300 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 58240, MediaDecoderStateMachine #1] WARNING: Decoder=2092f074e00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 58240, MediaDecoderStateMachine #1] WARNING: Decoder=2092f074e00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1669554049259	Marionette	INFO	Stopped listening on port 64091
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 55680, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669554053462	geckodriver	INFO	Listening on 127.0.0.1:64240
+1669554056514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile6Mph0L"
+1669554056945	Marionette	INFO	Marionette enabled
+1669554056949	Marionette	INFO	Listening on port 64253
+Read port: 
+1669554056956	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 64253
+WebDriver BiDi listening on ws://127.0.0.1:64241
+1669554057168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile6Mph0L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64241/devtools/browser/fa1468d5-0d98-4346-b86c-14518e990822
+1669554061306	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T13:01:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:01:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:01:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:01:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:01:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:01:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:01:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:01:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669554087437	Marionette	INFO	Stopped listening on port 64253
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669554465301	geckodriver	INFO	Listening on 127.0.0.1:64626
+1669554468354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileXT1RYJ"
+1669554468776	Marionette	INFO	Marionette enabled
+1669554468782	Marionette	INFO	Listening on port 64639
+Read port: 64639
+WebDriver BiDi listening on ws://127.0.0.1:64627
+1669554468978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileXT1RYJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64627/devtools/browser/75423ac8-c1f1-4695-bd66-1004a34cbd81
+1669554473514	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T13:07:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:07:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:07:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:07:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:07:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:07:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:07:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:07:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669554488441	Marionette	INFO	Stopped listening on port 64639
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669554494760	geckodriver	INFO	Listening on 127.0.0.1:64722
+1669554497824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64723" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileIoUPLe"
+1669554498244	Marionette	INFO	Marionette enabled
+1669554498251	Marionette	INFO	Listening on port 64734
+Read port: 64734
+WebDriver BiDi listening on ws://127.0.0.1:64723
+1669554498436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileIoUPLe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64723/devtools/browser/15a6da54-0c04-48cf-bb84-6787d15c0b25
+1669554502879	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T13:08:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:08:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:08:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:08:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:08:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:08:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:08:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:08:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669554551802	Marionette	INFO	Stopped listening on port 64734
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilenSu9Bs"
+1669554521335	Marionette	INFO	Marionette enabled
+1669554521340	Marionette	INFO	Listening on port 64823
+Read port: 64823
+WebDriver BiDi listening on ws://127.0.0.1:64810
+1669554521530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilenSu9Bs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64810/devtools/browser/4922c9ca-0b4d-4f57-b2f9-c2251532b9e0
+1669554527527	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T13:08:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:08:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:08:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:08:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:08:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:08:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 55808, MediaDecoderStateMachine #1] WARNING: Decoder=1fb9aa91900 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 55808, MediaDecoderStateMachine #1] WARNING: Decoder=1fb9aa91900 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 55808, MediaDecoderStateMachine #1] WARNING: Decoder=1fb9aa91600 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 55808, MediaDecoderStateMachine #1] WARNING: Decoder=1fb9aa91600 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1669554552735	Marionette	INFO	Stopped listening on port 64823
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14476, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669557371177	geckodriver	INFO	Listening on 127.0.0.1:51316
+1669557374263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "--disable-notifications" "--remote-debugging-port" "51317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilewvlqmQ"
+1669557375288	Marionette	INFO	Marionette enabled
+1669557375294	Marionette	INFO	Listening on port 51329
+Read port: 51329
+WebDriver BiDi listening on ws://127.0.0.1:51317
+1669557375565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilewvlqmQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51317/devtools/browser/b27eac49-b7c1-49d3-bcf4-4606fbcd29f6
+1669557445076	geckodriver	INFO	Listening on 127.0.0.1:51432
+1669557448147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile6fO2ob"
+1669557449220	Marionette	INFO	Marionette enabled
+1669557449231	Marionette	INFO	Listening on port 51445
+Read port: 
+1669557449233	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 51445
+WebDriver BiDi listening on ws://127.0.0.1:51433
+1669557449632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofile6fO2ob\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51433/devtools/browser/c2e2d91a-eee4-4a45-9ead-92b56f0afabc
+1669557456503	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T13:57:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:57:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:57:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:57:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:57:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:57:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:57:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:57:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669557501574	Marionette	INFO	Stopped listening on port 51441669557502561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileJjnBbJ"
+1669557503298	Marionette	INFO	Marionette enabled
+1669557503304	Marionette	INFO	Listening on port 51646
+Read port: 51646
+WebDriver BiDi listening on ws://127.0.0.1:51619
+1669557503572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileJjnBbJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51619/devtools/browser/debfb76d-c95f-485b-8ea6-1c625933088a
+1669557509261	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T13:58:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:58:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:58:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:58:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:58:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:58:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:58:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T13:58:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T14:08:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T14:08:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T14:08:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T14:08:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource:///modules/TabsList.jsm, line 527: TypeError: this.dropIndicator is null
+1669570240268	Marionette	INFO	Stopped listening on port 51646
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 60900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669570244352	geckodriver	INFO	Listening on 127.0.0.1:55703
+1669570247438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55704" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilenX6eGP"
+1669570248452	Marionette	INFO	Marionette enabled
+1669570248459	Marionette	INFO	Listening on port 55717
+Read port: 55717
+WebDriver BiDi listening on ws://127.0.0.1:55704
+1669570248726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilenX6eGP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55704/devtools/browser/44526d16-acd5-4b02-bef0-7e68c7301b88
+1669570255511	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T17:30:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:30:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:30:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:30:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:30:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:30:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:30:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669570319791	Marionette	INFO	Stopped listening on port 55717
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1669570319909	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:221
+observe()@resource://gre/modules/AsyncShutdown.jsm:574
+1669570326412	geckodriver	INFO	Listening on 127.0.0.1:55817
+1669570329443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55818" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileWClC3g"
+1669570330001	Marionette	INFO	Marionette enabled
+1669570330011	Marionette	INFO	Listening on port 55830
+Read port: 55830
+WebDriver BiDi listening on ws://127.0.0.1:55818
+1669570330273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileWClC3g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55818/devtools/browser/6e598c1c-7fe9-40ae-b936-6c488d6983b1
+1669570337952	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+[2022-11-27T17:32:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:32:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:32:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:32:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:32:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:32:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:32:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:32:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669570442442	Marionette	INFO	Stopped listening on port 55830
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669570494568	geckodriver	INFO	Listening on 127.0.0.1:56165
+1669570497652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56166" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileDQ2srk"
+1669570498485	Marionette	INFO	Marionette enabled
+1669570498492	Marionette	INFO	Listening on port 56178
+Read port: 56178
+WebDriver BiDi listening on ws://127.0.0.1:56166
+1669570498758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileDQ2srk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56166/devtools/browser/377606df-0f2f-4b6d-8889-9bdfed52e45e
+1669570505503	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T17:35:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:35:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:35:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:35:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:35:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:35:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:35:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:35:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669570545515	Marionette	INFO	Stopped listening on port 56178
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56282" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileEapYUT"
+1669570545285	Marionette	INFO	Marionette enabled
+1669570545294	Marionette	INFO	Listening on port 56292
+Read port: 56292
+WebDriver BiDi listening on ws://127.0.0.1:56282
+1669570546050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileEapYUT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56282/devtools/browser/4121b7d2-82d6-4c9a-af44-e3e12ff52f1b
+1669570553059	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T17:35:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:35:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:35:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:35:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:35:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:35:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:35:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:35:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669570603333	Marionette	INFO	Stopped listening on port 56292
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 62196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669570618558	geckodriver	INFO	Listening on 127.0.0.1:56485
+1669570621632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56486" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileZvYY2E"
+*** You are running in headless mode.
+1669570622870	Marionette	INFO	Marionette enabled
+1669570622881	Marionette	INFO	Listening on port 56499
+Read port: 56499
+WebDriver BiDi listening on ws://127.0.0.1:56486
+1669570623234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileZvYY2E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56486/devtools/browser/f065dbc0-4713-483a-af8c-418af1eb1350
+1669570629717	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+[2022-11-27T17:37:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:37:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:37:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:37:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:37:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:37:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:37:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:37:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Zakaria\AppData\Local\Temp\rust_mozprofileZvYY2E\bookmarkbackups\bookmarks-2022-11-27_11_1kBl1F8f118Jk4dVZoTyzQ==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+6948
+Read port: 56948
+WebDriver BiDi listening on ws://127.0.0.1:56936
+1669570999702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofilertH47D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56936/devtools/browser/e79dd319-5dca-4253-adcb-bc67b90145c7
+1669571005913	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T17:43:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:43:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:43:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:43:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:43:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:43:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:43:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 60220, MediaDecoderStateMachine #1] WARNING: Decoder=24aa55cb400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 60220, MediaDecoderStateMachine #1] WARNING: Decoder=24aa55cb400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Zakaria\AppData\Local\Temp\rust_mozprofilertH47D\bookmarkbackups\bookmarks-2022-11-29_11_EwKL1123MR7DULHGP95htg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Zakaria\AppData\Local\Temp\rust_mozprofilertH47D\bookmarkbackups\bookmarks-2022-11-30_11_EwKL1123MR7DULHGP95htg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zakaria\\AppData\\Local\\Temp\\rust_mozprofileTezRle\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57338/devtools/browser/c9f5829c-def8-4ffc-9898-334669eca068
+1669571364119	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T17:49:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:49:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:49:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:49:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:49:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:49:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:49:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 53180, MediaDecoderStateMachine #1] WARNING: Decoder=1b3d0fc9e00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 53180, MediaDecoderStateMachine #1] WARNING: Decoder=1b3d0fc9e00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Zakaria\AppData\Local\Temp\rust_mozprofileTezRle\bookmarkbackups\bookmarks-2022-11-27_11_4MU-RgIDtrXblKUezD6Vzg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Zakaria\AppData\Local\Temp\rust_mozprofileTezRle\bookmarkbackups\bookmarks-2022-11-29_11_4MU-RgIDtrXblKUezD6Vzg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Zakaria\AppData\Local\Temp\rust_mozprofileTezRle\bookmarkbackups\bookmarks-2022-11-30_11_4MU-RgIDtrXblKUezD6Vzg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ools listening on ws://127.0.0.1:57504/devtools/browser/deb21e87-1f2b-42c8-988d-fbcb1527753f
+1669571473409	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-27T17:51:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:51:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:51:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:51:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:51:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:51:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:51:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-27T17:51:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Zakaria\AppData\Local\Temp\rust_mozprofilePJAN8b\bookmarkbackups\bookmarks-2022-11-29_11_TWfjkIW+J+zhKh1I+hayjA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
